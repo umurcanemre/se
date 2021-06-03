@@ -1,10 +1,10 @@
 var sidebar = '<div class="inner">\
 <!-- Search -->\
-<section id="search" class="alt">\
+<!--<section id="search" class="alt">\
     <form method="post" action="#">\
         <input type="text" name="query" id="query" placeholder="Search" />\
     </form>\
-</section>\
+</section>-->\
 <!-- Menu -->\
 <nav id="menu">\
     <header class="major">\
@@ -12,13 +12,13 @@ var sidebar = '<div class="inner">\
     </header>\
     <ul>\
         <li><a href="index.html">Anasayfa</a></li>\
-        <li><a href="about.html">Hakkında</a></li>\
+        <li><a href="info.html">Hakkında</a></li>\
         <li><a href="office.html">Muhayenehanemiz</a></li>\
         <li>\
-            <span class="opener">Hizmetler</span>\
+            <span class="opener">Hizmetlerimiz</span>\
             <ul>\
-                <li><a href="#">Sünnet</a></li>\
-                <li><a href="#">Muhayene</a></li>\
+                <li><a href="services.html">Sünnet</a></li>\
+                <li><a href="services.html">Muhayene</a></li>\
             </ul>\
         </li>\
         <!--<li><a href="#">Etiam Dolore</a></li>\
@@ -65,15 +65,18 @@ var sidebar = '<div class="inner">\
     <header class="major">\
         <h2>İletişim</h2>\
     </header>\
+    <!--\
     <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem\
         ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat\
         tempus aliquam.</p>\
+-->\
     <ul class="contact">\
         <li class="icon solid fa-envelope"><a\
                 href="mailto:drselahattinemre@gmail.com">drselahattinemre@gmail.com</a></li>\
         <li class="icon solid fa-phone">(0537) 474 4939</li>\
-        <li class="icon solid fa-home">8in ora<br />\
-            Şehzadeler/Manisa</li>\
+        <li class="icon solid fa-home">\
+2. Anafartalar<br /> Cumhuriyet Cd. No:2<br /> 45020 \
+                Şehzadeler/Manisa</li>\
     </ul>\
 </section>\
 <!-- Footer -->\
