@@ -13,28 +13,8 @@ var sidebar = '<div class="inner">\
     <ul>\
         <li><a href="index.html">Anasayfa</a></li>\
         <li><a href="info.html">Hakkında</a></li>\
-        <li><a href="office.html">Muhayenehanemiz</a></li>\
-        <li>\
-            <span class="opener">Hizmetlerimiz</span>\
-            <ul>\
-                <li><a href="services.html">Sünnet</a></li>\
-                <li><a href="services.html">Muhayene</a></li>\
-            </ul>\
-        </li>\
-        <!--<li><a href="#">Etiam Dolore</a></li>\
-                        <li><a href="#">Adipiscing</a></li>\
-                        <li>\
-                            <span class="opener">Another Submenu</span>\
-                            <ul>\
-                                <li><a href="#">Lorem Dolor</a></li>\
-                                <li><a href="#">Ipsum Adipiscing</a></li>\
-                                <li><a href="#">Tempus Magna</a></li>\
-                                <li><a href="#">Feugiat Veroeros</a></li>\
-                            </ul>\
-                        </li>\
-                        <li><a href="#">Maximus Erat</a></li>\
-                        <li><a href="#">Sapien Mauris</a></li>\
-                        <li><a href="#">Amet Lacinia</a></li>-->\
+        <li><a href="galeri.html">Galeri</a></li>\
+        <li><a href="hizmetler.html">Hizmetlerimiz</a></li>\
     </ul>\
 </nav>\
 <!-- Section\
